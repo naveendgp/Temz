@@ -181,7 +181,7 @@ the website, in dark theme
 
 .dark-theme .steps__bg,
 .dark-theme .questions{
-  background-color: var(--first-color-dark);
+  background-color: #31876A;
 }
 
 .dark-theme .product__circle,
@@ -527,7 +527,7 @@ the website, in dark theme
 
 .steps__card-number{
   display: inline-block;
-  background-color: var(--first-color-alt);
+  background-color: #31876A;
   color: #FFF;
   padding: .5rem .75rem;
   border-radius: .25rem;
